@@ -3,4 +3,11 @@ layout: post
 title: Hello World!
 ---
 
-This site is under construction.
+```Rust
+fn main() {
+    println!(
+        "{}",
+        (|| || || || || || ||  "hello, world! I am learning Rust.")()()()()()()()
+    );
+}
+```
