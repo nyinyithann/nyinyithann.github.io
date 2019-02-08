@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-A programmer who loves to learn programming languages.
+My name is Nyi Nyi Than. I am a father, husband and software developer.
+I am mainly interested in programming langauges and love to craft software products.
 
 ### Contact me
 

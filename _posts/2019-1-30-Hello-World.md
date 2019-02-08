@@ -3,7 +3,7 @@ layout: post
 title: Hello World!
 ---
 
-This post is just to test Rust syntax highlighting in Solarized Dark theme.
+This post is just to test Rust syntax highlighting on GitHub page.
 Here is a valid syntax in Rust.
 
 ```rust
