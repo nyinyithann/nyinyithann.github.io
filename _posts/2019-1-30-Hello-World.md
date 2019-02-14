@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Hello World!
+categories: [Rust]
+tags: [Rust]
 ---
 
 This post is just to test Rust syntax highlighting on GitHub page.
